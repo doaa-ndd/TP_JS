@@ -1,0 +1,56 @@
+[
+  { 
+    "id": 10, 
+    "name": "Laptop", 
+    "category": "Informatique", 
+    "price": 8500, 
+    "stock": 8 
+},
+  { 
+    "id": 11, 
+    "name": "Souris", 
+    "category": "Informatique", 
+    "price": 180, 
+    "stock": 30 
+},
+  { 
+    "id": 12,
+     "name": "Clavier",
+     "category": "Informatique",
+     "price": 350,
+     "stock": 20 },
+
+
+  { "id": 13,
+   "name": "Casque",
+   "category": "Accessoires",
+   "price": 600,
+   "stock": 15 },
+
+
+  { "id": 14,
+   "name": "Sac",
+   "category": "Accessoires",
+   "price": 450,
+   "stock": 12 },
+
+  { "id": 15,
+   "name": "Lampe",
+   "category": "Maison",
+   "price": 220,
+   "stock": 18 },
+
+
+  { "id": 16,
+   "name": "Chaise",
+   "category": "Maison",
+   "price": 1200,
+   "stock": 7 },
+
+
+  { "id": 17,
+   "name": "Ecran",
+   "category": "Informatique",
+   "price": 2400,
+   "stock": 10 }
+]

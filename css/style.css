@@ -1,0 +1,11 @@
+body {
+  background-color: #f5f6f8;
+}
+
+.card {
+  height: 100%;
+}
+
+.card strong {
+  margin-bottom: 0.4rem;
+}
